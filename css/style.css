@@ -353,3 +353,28 @@ input:user-invalid {
 
     cursor: pointer;
 }
+
+.alerta {
+    background-color: var(--cor-secundaria);
+    color: var(--cor-texto);
+
+    padding: var(--espaco-2);
+    border-radius: 6px;
+
+    margin-bottom: var(--espaco-3);
+}
+
+.badge {
+    display: inline-block;
+
+    background-color: var(--cor-primaria);
+    color: var(--cor-superficie);
+
+    padding: 0.25rem 0.5rem;
+    border-radius: 999px;
+
+    font-size: var(--fonte-sm);
+    font-weight: bold;
+
+    margin-bottom: var(--espaco-1);
+}
