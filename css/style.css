@@ -109,6 +109,10 @@ h3 {
     gap: var(--espaco-2);
 }
 
+.menu-toggle {
+    display: none;
+}
+
 /* breakpoint extra pequeno */
 @media (max-width: 480px) {
 
@@ -193,6 +197,3 @@ h3 {
     }
 }
 
-.menu-toggle {
-    display: none;
-}
