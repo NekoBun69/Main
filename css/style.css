@@ -150,6 +150,20 @@ h3 {
     .projetos article {
         grid-column: span 12;
     }
+    .menu-toggle {
+        display: block;
+    }
+
+    .menu {
+        display: none;
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .menu.ativo {
+        display: flex;
+    }
+
 }
 /* breakpoint pequeno*/
 @media (min-width: 481px) and (max-width: 767px) {
@@ -177,4 +191,8 @@ h3 {
     .projetos article {
         grid-column: span 4;
     }
+}
+
+.menu-toggle {
+    display: none;
 }
