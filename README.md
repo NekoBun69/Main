@@ -67,4 +67,6 @@ Foram consideradas melhorias de acessibilidade como:
 
 ## Autor
 
-Projeto acadêmico desenvolvido para a disciplina de Desenvolvimento Front-end.
+Felipe Freire dos Santos
+contato: felipefreiresantos2003@gmail.com
+
